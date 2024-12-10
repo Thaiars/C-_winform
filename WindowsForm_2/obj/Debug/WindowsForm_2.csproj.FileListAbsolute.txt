@@ -1,0 +1,10 @@
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\bin\Debug\WindowsForm_2.exe.config
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\bin\Debug\WindowsForm_2.exe
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\bin\Debug\WindowsForm_2.pdb
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.csproj.AssemblyReference.cache
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.Form1.resources
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.Properties.Resources.resources
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.csproj.GenerateResource.cache
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.csproj.CoreCompileInputs.cache
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.exe
+C:\Users\Thai Le\source\repos\WindowsForm_2\WindowsForm_2\obj\Debug\WindowsForm_2.pdb
